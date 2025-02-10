@@ -12,5 +12,5 @@ Atom - a now sunset open souce tex editor my personal favorite, better for non r
 pycharm (community edition) - an awsome ide for python very user friendly and free just scroll down until you see the community edition option (https://www.jetbrains.com/pycharm/download/)
 
 CTF:
-CTF stands for capture the flag and is hacking challenge where you must find the flag (eg a string/text) by using explites in certin security mesutes, its very fun and a good way to practice hacking skill
-picoCTF - picoCTF is a free and very fun CTF cataluge that is very begginer friendly with plkenty of walkthoughs online
+CTF stands for capture the flag and is hacking challenge where you must find the flag (eg a string/text) by using exploits in certain security measures, it's very fun and a good way to practice hacking skill
+picoCTF - picoCTF is a free and very fun CTF catalogue that is very beginner friendly with plenty of walkthroughs online (https://play.picoctf.org/login)
